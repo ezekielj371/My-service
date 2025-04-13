@@ -14,7 +14,7 @@ body {
   margin: 0;
   @media screen and (nin-width: 768px) {
     body {
-      background-color: lightblue;
+      background-color: rgb(180, 20, 20);
     }
     
   }
